@@ -144,6 +144,10 @@ nav ul.menu>li>a.active {
         flex-direction: column;
     }
 
+    .container{
+        width: 95%;
+    }
+
     .content {
         display: block;
     }
