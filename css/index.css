@@ -181,6 +181,16 @@ nav ul.menu>li>a.active {
         top: 0;
         width: 100%
     }
+    .item{
+        display: block !important;
+    }
+    .image{
+        width: 100% !important;
+        margin: 0 !important;
+    }
+    .info{
+        width: 100% !important;
+    }
 }
 
 
