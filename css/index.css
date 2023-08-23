@@ -282,7 +282,10 @@ footer>span.moving {
 
 .image>img {
     border-radius: 7px;
+}
 
+.border-image{
+    border-radius: 7px;
 }
 
 .info {
