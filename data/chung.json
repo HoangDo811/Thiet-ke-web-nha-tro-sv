@@ -86,5 +86,14 @@
         "address": "Quận Bình Thạnh, Hồ Chí Minh",
         "info": "Khu dân trí cao tập trung nhiều tòa văn phòng, ngân hàng, trường đại học..",
         "cateId": 3
+    },{
+        "id": 9,
+        "title": "Mặt bằng góc 2 mặt tiền Phạm Viết Chánh cho thuê",
+        "image": "/matbang1/7cd6e013314c9238384e00b4c93317bf-2839103694608508007.jpg",
+        "price": 25,
+        "dientich": 54,
+        "address": "Quận Bình Thạnh, Hồ Chí Minh",
+        "info": "Góc đẹp tiện kinh doanh, căn đẹp nhất tuyến đường Phạm Viết Chánh",
+        "cateId": 3
     }
 ]
