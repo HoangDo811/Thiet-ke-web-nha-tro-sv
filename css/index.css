@@ -391,9 +391,7 @@ textarea {
     text-decoration: none;
     background-color: #1266dd;
 }
-div.item:hover .item{
-    background-color: red;
-}
+
 
 .price{
     color: green;

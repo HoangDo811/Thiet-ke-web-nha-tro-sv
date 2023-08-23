@@ -30,7 +30,9 @@ function loadInfo() {
                                         </div>
                                         <div>${p.info}
                                         </div>
-                                        
+                                        <div>
+                                            <a href="tro${p.id}.html">Xem thông tin chi tiết <i class="fas fa-arrow-right"></i></a>
+                                        </div>
                                     </div>
                                 </div>
                     `;
@@ -52,7 +54,9 @@ function loadInfo() {
                                         </div>
                                         <div>${p.info}
                                         </div>
-                                        
+                                        <div>
+                                            <a href="nha${p.id}.html">Xem thông tin chi tiết <i class="fas fa-arrow-right"></i></a>
+                                        </div>
                                     </div>
                                 </div>
                     `;
@@ -74,7 +78,9 @@ function loadInfo() {
                                         </div>
                                         <div>${p.info}
                                         </div>
-                                        
+                                        <div>
+                                            <a href="matbang${p.id}.html">Xem thông tin chi tiết <i class="fas fa-arrow-right"></i></a>
+                                        </div>
                                     </div>
                                 </div>
                     `;
