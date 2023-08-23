@@ -24,11 +24,6 @@ $(document).ready(() => {
 });
 
 
-
-// $("nav ul.menu>li").click(function(){
-
-// })
-
 window.onload = function() {
     let images =document.querySelectorAll(".thump img");
     for(let ima of images)

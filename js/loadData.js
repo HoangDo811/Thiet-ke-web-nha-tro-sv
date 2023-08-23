@@ -98,9 +98,7 @@ function loadInfo() {
 
 
 window.onload = function () {
-    // loadCates();
     loadInfo();
-    // loadNguyenCan();
-    // loadMatBang();
+
 
 }
